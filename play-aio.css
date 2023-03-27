@@ -45,7 +45,7 @@ background-color: #fff;
     
     .welcome {
         font-size: 62px;
-        color: white;
+        color: black;
 		text-align: center;
         position: relative;
         top: -613px;
@@ -54,7 +54,7 @@ background-color: #fff;
     
     .discription {
         font-size: 26px;
-        color: white;
+        color: black;
         position: relative;
 		text-align: center;
         top: -613px;
