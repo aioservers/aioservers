@@ -52,6 +52,15 @@ background-color: #fff;
         z-index: 1;    
     }
     
+     .welcome_support {
+        font-size: 62px;
+        color: black;
+		text-align: center;
+        position: relative;
+        top: -613px;
+        z-index: 1;    
+    }
+    
     .discription {
         font-size: 26px;
         color: white;
